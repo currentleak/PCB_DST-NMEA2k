@@ -1,8 +1,8 @@
-# EV PROJECT
+# DST NMEA2k PROJECT
 
-> SOCKET -- EVSE - EV_Charger
+> 
 
-> SITE -- EVSC - EV_SiteController
+> 
 
 ## Altium Source Files
  * .PrjPcb  Project hierarchy
