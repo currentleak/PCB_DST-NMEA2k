@@ -1,8 +1,11 @@
 # DST NMEA2k PROJECT
 
-> 
+> Simple NMEA 2000 reader:
+- with 3 digits indicator, 
+- 2 dual-color Leds,
+- one buzzer output, 
+- and a push button.
 
-> 
 
 ## Altium Source Files
  * .PrjPcb  Project hierarchy
